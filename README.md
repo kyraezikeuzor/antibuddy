@@ -1,4 +1,4 @@
-# Needle: Doris Lab IG Pipeline Tool
+# Goblin: Doris Lab IG Pipeline Tool
 Needle automates the data extraction and processing pipeline for the Doris Lab by converting and analyzing sequence data. This tool converts `.bam` files to `.fasta`, splits `.fasta` files, indexes them, and extracts sequences based on specific targets using various bioinformatics tools.
 
 ## Requirements
